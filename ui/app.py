@@ -90,7 +90,6 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("**Powered by:** Groq (Llama 3.3 70B) + PubMed API + OpenFDA API")
-    st.markdown("**⚠️ For educational/demo use only.**")
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 st.markdown('<div class="main-title">🏥 Medical Multi-Agent Diagnostic System</div>', unsafe_allow_html=True)
